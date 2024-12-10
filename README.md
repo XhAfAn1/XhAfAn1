@@ -1,7 +1,6 @@
 <h1 >SUP, I'm XhAfAn</h1>
 <h3 >A non-passionate Lazy ass looser</h3>
 
-
 ##  Socials:
 <p align="left">
 <a href="https://discord.gg/Nv9TwZKQ" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord.svg" alt="568049078005661706" height="30" width="40" /></a>
