@@ -3,9 +3,9 @@
 
 ##  Socials:
 <p align="left">
-<a href="https://discord.gg/Nv9TwZKQ" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord.svg" alt="568049078005661706" height="30" width="40" /></a>
-  <a href="https://reddit.com/user/StructureJealous472" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/reddit.svg" alt="568049078005661706" height="30" width="40" /></a>
-  <a href="https://twitch.tv/XhAfAn" target="blank"><img align="center" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="568049078005661706" " /></a>
+<a href="https://discord.gg/Nv9TwZKQ" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="568049078005661706" height="30" width="40" /></a>
+  <a href="https://reddit.com/user/StructureJealous472" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/reddit-4.svg" alt="568049078005661706" height="30" width="40" /></a>
+  <a href="https://twitch.tv/XhAfAn" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitch-purple.svg" alt="568049078005661706" height="30" width="40"" /></a>
 </p>
 
 
