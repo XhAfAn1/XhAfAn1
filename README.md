@@ -6,6 +6,7 @@
 <a href="https://discord.gg/Nv9TwZKQ" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="568049078005661706" height="30" width="40" /></a>
   <a href="https://reddit.com/user/StructureJealous472" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/reddit-4.svg" alt="568049078005661706" height="30" width="40" /></a>
   <a href="https://twitch.tv/XhAfAn" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitch-purple.svg" alt="568049078005661706" height="30" width="40"" /></a>
+  <a href="https://steamcommunity.com/id/xhafan_" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/steam-icon-logo.svg" alt="568049078005661706" height="30" width="40"" /></a>
   <a href="https://open.spotify.com/user/9ko2nsq0mksyrmcl2z8weq1p1" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/spotify-2.svg" alt="568049078005661706" height="30" width="40"" /></a> 
 </p>
 
